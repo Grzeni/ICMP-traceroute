@@ -12,3 +12,6 @@ To clean up after using:
 > make clean
 ##
 > make distclean
+
+## Example
+![cyk](exampleT.png?raw=true "exampleT")
